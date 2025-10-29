@@ -10,7 +10,7 @@ DDS-based signal generation using an AD9837 waveform generator chip
 
 Both communicate with Julia for impedance calculation and display results on an OLED (SSD1306) screen.
 
-Functional Flow:
+### Functional Flow:
 
 STM32 generates a sine excitation (via DAC or AD9837 DDS)
 
