@@ -1,6 +1,6 @@
 # Complex Impedance Meter
 
-An  impedance measurement system combining real-time data acquisition on an STM32 microcontroller with FFT-based signal processing and circuit parameter estimation in Julia.
+An  impedance measurement system combining real-time data acquisition on an STM32F7 microcontroller with FFT-based signal processing and circuit parameter estimation in Julia.
 
 The project includes two STM32 implementations:
 
