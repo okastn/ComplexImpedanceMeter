@@ -25,10 +25,15 @@ Impedance and circuit parameters are computed
 Results are sent back to STM32 and displayed on an OLED
 
 OLED Display Example:
+
 F=1000Hz SE=0.04
+
 |Z|=1023.2   Ang=-45.3
+
 Z=720-720j
+
 Rs=720.0
+
 Cs=2.34uF
 
 
